@@ -3,7 +3,7 @@
 The script returns by default a Array with { User: string, Path: string }
 
 
-Simply call wothout parameters to find all shares in current computer with current user.
+Simply call without parameters to find all shares in current computer with current user.
 
     .\find-shares.ps1
 
